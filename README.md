@@ -24,7 +24,7 @@ A robust Bash script designed for automated backup operations. It handles compre
 
 (Optional)->Automate with Cron :
 1.Open crontab: ```text crontab -e ```
-2.Add line: ```text 0 3 * * * /path/to/smart_backup.sh /source /destination >> /var/log/backup.log 2>&1
+2.Add line: ```text 0 3 * * * /path/to/smart_backup.sh /source /destination >> /var/log/backup.log 2>&1 ```
 
 Requirements:
 -Linux/Unix/macOS
