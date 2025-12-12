@@ -29,6 +29,7 @@ A robust Bash script designed for automated backup operations. It handles compre
 
 Requirements:
 -Linux/Unix/macOS
+
 -tar utility
 
 Develiped by a CS Student
